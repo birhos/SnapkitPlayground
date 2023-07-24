@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		6D5633F32A6F16EB001D9575 /* Demo4ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6D5633F22A6F16EB001D9575 /* Demo4ViewController.swift */; };
 		6DFF19812A6C0035003BAC6E /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6DFF19802A6C0035003BAC6E /* AppDelegate.swift */; };
 		6DFF19832A6C0035003BAC6E /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6DFF19822A6C0035003BAC6E /* SceneDelegate.swift */; };
 		6DFF19852A6C0035003BAC6E /* BasicPositioningViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6DFF19842A6C0035003BAC6E /* BasicPositioningViewController.swift */; };
@@ -45,6 +46,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		6D5633F22A6F16EB001D9575 /* Demo4ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Demo4ViewController.swift; sourceTree = "<group>"; };
 		6DFF197D2A6C0035003BAC6E /* SnapkitPlayground.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = SnapkitPlayground.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		6DFF19802A6C0035003BAC6E /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		6DFF19822A6C0035003BAC6E /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -156,6 +158,7 @@
 				6DFF19BE2A6C1D1A003BAC6E /* Demo1ViewController.swift */,
 				6DFF19C32A6C1F61003BAC6E /* Demo2ViewController.swift */,
 				6DFF19C52A6C20BA003BAC6E /* Demo3ViewController.swift */,
+				6D5633F22A6F16EB001D9575 /* Demo4ViewController.swift */,
 			);
 			path = Features;
 			sourceTree = "<group>";
@@ -306,6 +309,7 @@
 				6DFF19832A6C0035003BAC6E /* SceneDelegate.swift in Sources */,
 				6DFF19BB2A6C1B35003BAC6E /* UpdateConstraintsViewController.swift in Sources */,
 				6DFF19B42A6C028C003BAC6E /* Extensions.swift in Sources */,
+				6D5633F32A6F16EB001D9575 /* Demo4ViewController.swift in Sources */,
 				6DFF19C62A6C20BA003BAC6E /* Demo3ViewController.swift in Sources */,
 				6DFF19B62A6C18ED003BAC6E /* SafeAreaViewController.swift in Sources */,
 				6DFF19BD2A6C1C72003BAC6E /* MultiplierViewController.swift in Sources */,
